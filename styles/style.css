@@ -19,9 +19,14 @@ body {
   border-radius: 50%;
 }
 
-#twi {
+.twitter {
   width: 30px;
   height: 30px;
+  margin-right: 10px;
+}
+
+.github {
+  margin-right: 10px;
 }
 
 .icons {
