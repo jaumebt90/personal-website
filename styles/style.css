@@ -20,11 +20,12 @@ body {
 }
 
 #twi {
-  width: 1em;
-  height: 1em;
+  width: 30px;
+  height: 30px;
 }
 
 .icons {
   display: flex;
   flex-direction: row;
+  list-style: none;
 }
