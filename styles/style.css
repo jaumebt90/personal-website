@@ -7,13 +7,24 @@ body {
 
 .all {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   flex-direction: column;
-  align-items: center;
+  padding-left: 700px;
+  padding-right: 700px;
 }
 
-.me {
+#me {
   height: 300px;
   width: 300px;
   border-radius: 50%;
+}
+
+#twi {
+  width: 1em;
+  height: 1em;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
 }
