@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to top left, #282828, #757575);
+  height: 100vh;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.all {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.me {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
