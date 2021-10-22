@@ -34,3 +34,7 @@ body {
   flex-direction: row;
   list-style: none;
 }
+
+#line {
+  width: 450px;
+}
