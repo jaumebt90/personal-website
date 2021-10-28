@@ -42,6 +42,20 @@ body {
   margin-right: 500px;
 }
 
+#line2 {
+  width: 410px;
+  margin-right: 800px;
+  margin-top: 50px;
+}
+
 .texto {
   line-height: 25px;
+  color: rgb(136, 151, 168);
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  height: 250px;
 }
