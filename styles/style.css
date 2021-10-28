@@ -2,15 +2,16 @@ body {
   background-color: rgb(22, 22, 25);
   height: 100vh;
   color: white;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: large;
 }
 
 .all {
   display: flex;
   justify-content: left;
   flex-direction: column;
-  padding-left: 700px;
-  padding-right: 700px;
+  padding-left: 650px;
+  padding-right: 650px;
 }
 
 #me {
