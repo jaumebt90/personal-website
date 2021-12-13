@@ -46,6 +46,10 @@ body {
   border-radius: 50%;
 }
 
+.titol {
+  color: white;
+}
+
 .twitter {
   width: 30px;
   height: 30px;
